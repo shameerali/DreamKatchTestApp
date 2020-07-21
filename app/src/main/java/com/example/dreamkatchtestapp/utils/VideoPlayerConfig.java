@@ -10,5 +10,5 @@ public class VideoPlayerConfig {
     //Min video You want to buffer when user resumes video
     public static final int MIN_PLAYBACK_RESUME_BUFFER = 5000;
     public static final String DEFAULT_VIDEO_URL =
-            "https://www.youtube.com/watch?v=nVsogURSsQI";
+            "https://www.youtube.com/watch?v=sEI5bVDRgDM";
 }
